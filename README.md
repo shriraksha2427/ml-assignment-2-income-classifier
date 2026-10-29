@@ -8,7 +8,7 @@ The objective of this assignment is to build, evaluate, compare, and deploy an e
 - **Source Repository**: UCI Machine Learning Repository
 - **Total Cleaned Instances**: 30,162 instances after handling missing values (`?`)
 - **Feature Size**: 14 attributes
-- **Target Variable**: Binary classification (`0` = Income $ <= 50 \text{K}$, `1` = Income $> \$50\text{K}$)
+- **Target Variable**: Binary classification (`0` = Income $ <= \$50\text{K}$, `1` = Income $> \$50\text{K}$)
 
 ## c. Github Repository Link
 - **GitHub Repository**: [https://github.com/shriraksha2427/ml-assignment-2-income-classifier](https://github.com/shriraksha2427/ml-assignment-2-income-classifier)
