@@ -11,8 +11,8 @@ The objective of this assignment is to build, evaluate, compare, and deploy an e
 - **Target Variable**: Binary classification (`0` = Income $\le \$50\text{K}$, `1` = Income $> \$50\text{K}$)
 
 ## c. Github Repository Link
-- **GitHub Repository**: [https://github.com/<your-username>/<your-repo-name>](https://github.com/<your-username>/<your-repo-name>)[cite: 1, 2]
-- **Live Streamlit App**: [https://<your-app-name>.streamlit.app](https://<your-app-name>.streamlit.app)[cite: 1, 2]
+- **GitHub Repository**: [https://github.com/shriraksha2427/ml-assignment-2-income-classifier](https://github.com/shriraksha2427/ml-assignment-2-income-classifier)
+- **Live Streamlit App**: [https://<your-app-name>.streamlit.app](https://ml-assignment-2-income-classifier-djlchyhjsvbvepvnaymuzt.streamlit.app/)
 
 ## d. Models used & Comparison Table
 
@@ -33,4 +33,4 @@ The objective of this assignment is to build, evaluate, compare, and deploy an e
 | **KNN** | Distance-based metrics (`k=7`) performed well after feature normalization, though computation time scaled higher relative to parametric models. |
 | **Naive Bayes** | Gaussian Naive Bayes recorded the highest recall (73.50%) by predicting positive classes more broadly, though its precision was lower due to conditional independence assumptions. |
 | **Support Vector Machine** | **Overall Winner**. Achieved the highest Accuracy (85.40%), AUC (0.9012), F1 Score (0.6724), and MCC (0.5862) by constructing an optimal maximum-margin hyperplane with the RBF kernel. |
-| **Overall, Winner for your dataset?** | **Support Vector Machine (SVM)**[cite: 4] |
+| **Overall, Winner for your dataset?** | **Support Vector Machine (SVM)** |
