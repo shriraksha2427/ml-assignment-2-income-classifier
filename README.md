@@ -16,7 +16,7 @@ The objective of this assignment is to build, evaluate, compare, and deploy an e
 
 ## d. Models used & Comparison Table
 
-| ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC |
+| ML Model Names | Accuracy | AUC | Precision | Recall | F1 | MCC |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Logistic Regression** | 0.8423 | 0.8951 | 0.7254 | 0.5832 | 0.6467 | 0.5512 |
 | **Decision Tree** | 0.8512 | 0.8920 | 0.7412 | 0.6120 | 0.6704 | 0.5815 |
@@ -26,7 +26,7 @@ The objective of this assignment is to build, evaluate, compare, and deploy an e
 
 ### Observations on Model Performance
 
-| ML Model Name | Observation about model performance |
+| ML Model Names | Observation about performance |
 | :--- | :--- |
 | **Logistic Regression** | Standardized scaling via pipeline ensured rapid convergence and robust linear boundary separation, yielding solid overall accuracy (84.23%) and balanced precision-recall. |
 | **Decision Tree** | Setting a controlled tree depth (`max_depth=10`) prevented overfitting while capturing non-linear interactions across categorical thresholds, achieving high accuracy (85.12%). |
