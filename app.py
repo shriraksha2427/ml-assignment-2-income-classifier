@@ -23,7 +23,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("📊 M.Tech AIML — ML Assignment 2: Classification Dashboard")
+st.title("📊 ML Assignment 2: Classification Dashboard")
 st.markdown("**End-to-End ML Deployment Workflow**: Model Evaluation & Streamlit Inference")
 
 # Model File Mapping
