@@ -1,14 +1,14 @@
-# M.Tech (AIML) - Machine Learning Assignment 2
+# Machine Learning Assignment 2 - Adult Income Classification
 
 ## a. Problem statement
 The objective of this assignment is to build, evaluate, compare, and deploy an end-to-end machine learning classification pipeline across five distinct supervised classification algorithms (Logistic Regression, Decision Tree, K-Nearest Neighbors, Gaussian Naive Bayes, and Support Vector Machine) to predict annual income levels based on the UCI Adult Census Income dataset, and serve live test-set inference via an interactive Streamlit web application without retraining.
 
 ## b. Dataset description
-- **Dataset Name**: UCI Adult Census Income Dataset (`adult.data`)
+- **Dataset Name**: UCI Adult Census Income Dataset (`adult.csv `)
 - **Source Repository**: UCI Machine Learning Repository
 - **Total Cleaned Instances**: 30,162 instances after handling missing values (`?`)
-- **Feature Size**: 14 attributes (mix of continuous numerical features like age, capital gain/loss, hours per week, and encoded categorical features like education, occupation, workclass, and marital status)
-- **Target Variable**: Binary classification (`0` = Income $\le \$50\text{K}$, `1` = Income $> \$50\text{K}$)
+- **Feature Size**: 14 attributes
+- **Target Variable**: Binary classification (`0` = Income $ <= 50\text{K}$, `1` = Income $> \$50\text{K}$)
 
 ## c. Github Repository Link
 - **GitHub Repository**: [https://github.com/shriraksha2427/ml-assignment-2-income-classifier](https://github.com/shriraksha2427/ml-assignment-2-income-classifier)
